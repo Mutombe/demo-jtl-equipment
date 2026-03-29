@@ -577,13 +577,7 @@ const siteData = {
     ],
     heroSubtitle:
       "Real feedback from contractors, miners, and project managers across Zimbabwe who trust JTL Equipment.",
-    ratingBreakdown: [
-      { stars: 5, count: 15 },
-      { stars: 4, count: 6 },
-      { stars: 3, count: 2 },
-      { stars: 2, count: 0 },
-      { stars: 1, count: 0 },
-    ],
+    ratingBreakdown: { 5: 15, 4: 6, 3: 2, 2: 0, 1: 0 },
     items: [
       {
         name: "Tendai Mhizha",
